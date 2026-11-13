@@ -1,0 +1,55 @@
+Recovered 5 writes and applied 137 edits from 534 recorded tool calls.
+UNAPPLIED edit file not recovered: src/styles/theme.css
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 2
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 11
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 7
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 7
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 3
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 2
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 7
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+UNAPPLIED edit in src/app/App.tsx: expected one old_str match, found 0
+Not all Figma Make history is self-contained. Snapshots, blob_store references, and commands executed by bash are NOT reconstructed.
+Build and browser interactions have NOT been verified by this script.
+Review assets, external URLs, imports, and any sensitive information before public release.
